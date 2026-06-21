@@ -1,0 +1,8 @@
+typing
+pydantic
+langgraph
+langchain_mistralai
+langchain_core
+langchain_community
+dotenv
+datatime
